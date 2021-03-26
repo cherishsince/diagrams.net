@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T03:05:51.551Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="nOshYOJB1EmD2v00sBg6" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-26T03:09:29.525Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="OJe3Y8HspL6ldg2fLPgH" version="14.5.1" type="github">
   <diagram id="JC6YWZscYOxGdfwqXaaI" name="第 1 页">
     <mxGraphModel dx="1954" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -112,14 +112,11 @@
         <mxCell id="1J5CTIB7C7j0o6gfLWX4-42" value="ETL，数据库的上报" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="310" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1J5CTIB7C7j0o6gfLWX4-43" value="1、校验完数据，" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="380" width="110" height="20" as="geometry" />
+        <mxCell id="1J5CTIB7C7j0o6gfLWX4-43" value="1、校验完数据、表结构、指数、关系、总量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="360" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1J5CTIB7C7j0o6gfLWX4-44" value="1、服务器相关（CPU、内存、磁盘）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-5" y="390" width="220" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1J5CTIB7C7j0o6gfLWX4-45" value="1、服务器相关（CPU、内存、磁盘）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-5" y="410" width="220" height="20" as="geometry" />
+          <mxGeometry x="-70" y="360" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1J5CTIB7C7j0o6gfLWX4-46" value="区域-机房" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="190" width="70" height="20" as="geometry" />
