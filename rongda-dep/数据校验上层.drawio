@@ -1,68 +1,71 @@
-<mxfile host="app.diagrams.net" modified="2021-03-31T09:25:06.172Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="nNPlxccxH39O3VpYYXEp" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-31T09:27:53.003Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="_7729SxtOalF-ITQaaKF" version="14.5.3" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1127" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0YEeuuM1pXPuXUxN5WPs-51" value="医院" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0YEeuuM1pXPuXUxN5WPs-52" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0YEeuuM1pXPuXUxN5WPs-53" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0YEeuuM1pXPuXUxN5WPs-54" value="数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="440" y="130" width="60" height="80" as="geometry" />
+          <mxGeometry x="440" y="280" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0YEeuuM1pXPuXUxN5WPs-58" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="340" as="sourcePoint" />
-            <mxPoint x="270" y="120" as="targetPoint" />
+            <mxPoint x="270" y="490" as="sourcePoint" />
+            <mxPoint x="270" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0YEeuuM1pXPuXUxN5WPs-61" value="上报数据：是按批次的，每批数据可能会比较多，所以一般会分为两个阶段，&lt;br&gt;上传数据、修改上传状态，告诉edqc校验程序你可以来校验了" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="40" width="420" height="30" as="geometry" />
+          <mxGeometry x="120" y="220" width="420" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0YEeuuM1pXPuXUxN5WPs-62" value="数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="440" y="240" width="60" height="80" as="geometry" />
+          <mxGeometry x="440" y="390" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0YEeuuM1pXPuXUxN5WPs-59" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry x="310" y="140" width="50" height="50" as="geometry">
-            <mxPoint x="310" y="180" as="sourcePoint" />
-            <mxPoint x="400" y="179.5" as="targetPoint" />
+          <mxGeometry x="310" y="290" width="50" height="50" as="geometry">
+            <mxPoint x="310" y="330" as="sourcePoint" />
+            <mxPoint x="400" y="329.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0YEeuuM1pXPuXUxN5WPs-60" value="1、上传数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="140" width="80" height="20" as="geometry" />
+          <mxGeometry x="310" y="290" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0YEeuuM1pXPuXUxN5WPs-63" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry x="290" y="260" width="50" height="50" as="geometry">
-            <mxPoint x="310" y="290.5" as="sourcePoint" />
-            <mxPoint x="400" y="290" as="targetPoint" />
+          <mxGeometry x="290" y="410" width="50" height="50" as="geometry">
+            <mxPoint x="310" y="440.5" as="sourcePoint" />
+            <mxPoint x="400" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0YEeuuM1pXPuXUxN5WPs-64" value="&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;2、修改上传状态&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="250" width="110" height="20" as="geometry" />
+          <mxGeometry x="295" y="400" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0YEeuuM1pXPuXUxN5WPs-68" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry x="509" y="260" width="50" height="50" as="geometry">
-            <mxPoint x="529" y="290.5" as="sourcePoint" />
-            <mxPoint x="619" y="290" as="targetPoint" />
+          <mxGeometry x="509" y="410" width="50" height="50" as="geometry">
+            <mxPoint x="529" y="440.5" as="sourcePoint" />
+            <mxPoint x="619" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0YEeuuM1pXPuXUxN5WPs-69" value="3、job状态检测" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="250" width="100" height="20" as="geometry" />
+          <mxGeometry x="520" y="400" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0YEeuuM1pXPuXUxN5WPs-70" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="630" y="340" as="sourcePoint" />
-            <mxPoint x="630" y="120" as="targetPoint" />
+            <mxPoint x="630" y="490" as="sourcePoint" />
+            <mxPoint x="630" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0YEeuuM1pXPuXUxN5WPs-71" value="&lt;span&gt;deqc校验程序&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="283" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="0YEeuuM1pXPuXUxN5WPs-75" value="kettle(ETL) 采集数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="500" width="650" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
