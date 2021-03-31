@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-31T09:28:32.845Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="Tn-3XVDFKfdWjAN6u8rM" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-31T09:29:32.016Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="3G-Ln0x7qPoV5q2TWJJ1" version="14.5.3" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1127" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0YEeuuM1pXPuXUxN5WPs-61" value="上报数据：是按批次的，每批数据可能会比较多，所以一般会分为两个阶段，&lt;br&gt;上传数据、修改上传状态，告诉edqc校验程序你可以来校验了" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="220" width="420" height="30" as="geometry" />
+          <mxGeometry x="120" y="110" width="420" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0YEeuuM1pXPuXUxN5WPs-62" value="数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="440" y="390" width="60" height="80" as="geometry" />
@@ -64,7 +64,7 @@
         <mxCell id="0YEeuuM1pXPuXUxN5WPs-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0YEeuuM1pXPuXUxN5WPs-71" target="0YEeuuM1pXPuXUxN5WPs-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0YEeuuM1pXPuXUxN5WPs-77" value="通知 kettle 采集数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0YEeuuM1pXPuXUxN5WPs-76">
+        <mxCell id="0YEeuuM1pXPuXUxN5WPs-77" value="4、通知 kettle 采集数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0YEeuuM1pXPuXUxN5WPs-76">
           <mxGeometry x="-0.1149" y="1" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
@@ -73,7 +73,7 @@
           <mxGeometry x="650" y="283" width="120" height="190" as="geometry" />
         </mxCell>
         <mxCell id="0YEeuuM1pXPuXUxN5WPs-75" value="kettle(ETL) 采集数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="530" width="650" height="30" as="geometry" />
+          <mxGeometry x="120" y="170" width="650" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
