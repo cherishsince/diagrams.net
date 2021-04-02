@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T00:25:44.156Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="84XwNJRRFFI15aRN42MK" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-02T00:25:59.971Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="Rp00aOrvP6Qbku8ibLme" version="14.5.3" type="github">
   <diagram id="bEX31efKxSJHf-s3sODm" name="第 1 页">
     <mxGraphModel dx="1127" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,13 +19,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VjYMC8rWytREGVeJ94fa-10" value="类加载器" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="495" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VjYMC8rWytREGVeJ94fa-20" value="准备，就开始分配内存空间了" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VjYMC8rWytREGVeJ94fa-14" target="VjYMC8rWytREGVeJ94fa-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VjYMC8rWytREGVeJ94fa-14" value="验证" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="495" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VjYMC8rWytREGVeJ94fa-16" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="475" y="490" width="450" height="210" as="geometry" />
@@ -58,7 +58,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VjYMC8rWytREGVeJ94fa-19" value="准备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="270" width="120" height="50" as="geometry" />
+          <mxGeometry x="495" y="280" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VjYMC8rWytREGVeJ94fa-21" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;1、类里面所有的，字段(普通、static、符号(方法))&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;类被加载到方法区中：&lt;br&gt;&lt;div&gt;后主要包含 运行时常量池、类型信息、字段信息、方法信息、类加载器的引用、对应class实例的引用等信息。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;.Class -&amp;gt; Klass&amp;nbsp;&lt;/div&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="140" width="700" height="100" as="geometry" />
