@@ -1,10 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-04-17T06:45:06.646Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="deaHV3QVcYp-EwAfbWk6" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-17T06:54:56.974Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="r6EDV1N5mie8GNxJVKFs" version="14.6.1" type="github">
   <diagram id="HAbrl762_PNjRWY2l_dj" name="第 1 页">
-    <mxGraphModel dx="1367" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1127" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wn-I9im4zyKSfdLFJuxH-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wn-I9im4zyKSfdLFJuxH-51" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1340" width="540" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wn-I9im4zyKSfdLFJuxH-45" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="1060" width="620" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wn-I9im4zyKSfdLFJuxH-19" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -102,6 +105,9 @@
         <mxCell id="wn-I9im4zyKSfdLFJuxH-33" value="设置 script、env、listener(日志)、pwd(工作空间路径)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="950" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wn-I9im4zyKSfdLFJuxH-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wn-I9im4zyKSfdLFJuxH-35" target="wn-I9im4zyKSfdLFJuxH-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wn-I9im4zyKSfdLFJuxH-35" value="LocalProc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
@@ -124,6 +130,21 @@
         </mxCell>
         <mxCell id="wn-I9im4zyKSfdLFJuxH-43" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wn-I9im4zyKSfdLFJuxH-50" value="Java的&lt;br&gt;ProcessBuilder 进行替换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wn-I9im4zyKSfdLFJuxH-54" value="这里有一波骚操作，为了保证 ProcessBuild 的 Env 正确，将 ProcessBuild 先清空在设置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1320" width="480" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wn-I9im4zyKSfdLFJuxH-49" value="将Jenkins env&lt;br&gt;设置到 ProcessBuilder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wn-I9im4zyKSfdLFJuxH-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wn-I9im4zyKSfdLFJuxH-52" target="wn-I9im4zyKSfdLFJuxH-49">
+          <mxGeometry x="90" y="1340" as="geometry" />
+        </mxCell>
+        <mxCell id="wn-I9im4zyKSfdLFJuxH-52" value="清空 ProcessBuild 的 env" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
