@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-04-17T06:32:55.443Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="X6Lsg42HSrjFlK45v7Pk" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-17T06:45:06.646Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="deaHV3QVcYp-EwAfbWk6" version="14.6.1" type="github">
   <diagram id="HAbrl762_PNjRWY2l_dj" name="第 1 页">
-    <mxGraphModel dx="1367" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1367" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wn-I9im4zyKSfdLFJuxH-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1060" width="620" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="wn-I9im4zyKSfdLFJuxH-19" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="110" y="200" width="290" height="290" as="geometry" />
         </mxCell>
@@ -44,8 +47,83 @@
             <mxPoint x="390" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wn-I9im4zyKSfdLFJuxH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wn-I9im4zyKSfdLFJuxH-20" target="wn-I9im4zyKSfdLFJuxH-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wn-I9im4zyKSfdLFJuxH-25" value="合并 Enviroment" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wn-I9im4zyKSfdLFJuxH-24">
+          <mxGeometry x="-0.375" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wn-I9im4zyKSfdLFJuxH-20" value="Script file" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wn-I9im4zyKSfdLFJuxH-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wn-I9im4zyKSfdLFJuxH-23" target="wn-I9im4zyKSfdLFJuxH-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wn-I9im4zyKSfdLFJuxH-28" value="&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;替换环境变量&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wn-I9im4zyKSfdLFJuxH-27">
+          <mxGeometry x="-0.125" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wn-I9im4zyKSfdLFJuxH-23" value="Jenkins Environment&lt;br&gt;合并 System.getEnv()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wn-I9im4zyKSfdLFJuxH-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wn-I9im4zyKSfdLFJuxH-26" target="wn-I9im4zyKSfdLFJuxH-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wn-I9im4zyKSfdLFJuxH-32" value="创建程序启动器(会区分: 本地、远程 等模式)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wn-I9im4zyKSfdLFJuxH-31">
+          <mxGeometry x="-0.4333" y="-2" relative="1" as="geometry">
+            <mxPoint x="2" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wn-I9im4zyKSfdLFJuxH-26" value="替换 script&amp;nbsp;&lt;span&gt;占位符、&lt;/span&gt;&lt;span&gt;${}、$$、{}&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wn-I9im4zyKSfdLFJuxH-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wn-I9im4zyKSfdLFJuxH-29" target="wn-I9im4zyKSfdLFJuxH-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wn-I9im4zyKSfdLFJuxH-37" value="设置一些环境信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wn-I9im4zyKSfdLFJuxH-34">
+          <mxGeometry x="-0.375" y="-2" relative="1" as="geometry">
+            <mxPoint x="2" y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wn-I9im4zyKSfdLFJuxH-29" value="创建 ProStarter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wn-I9im4zyKSfdLFJuxH-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wn-I9im4zyKSfdLFJuxH-33" target="wn-I9im4zyKSfdLFJuxH-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wn-I9im4zyKSfdLFJuxH-40" value="调用程序发射器，创建一个 Proc" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wn-I9im4zyKSfdLFJuxH-38">
+          <mxGeometry x="-0.2571" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wn-I9im4zyKSfdLFJuxH-33" value="设置 script、env、listener(日志)、pwd(工作空间路径)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wn-I9im4zyKSfdLFJuxH-35" value="LocalProc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wn-I9im4zyKSfdLFJuxH-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wn-I9im4zyKSfdLFJuxH-36" target="wn-I9im4zyKSfdLFJuxH-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wn-I9im4zyKSfdLFJuxH-47" value="启动本地程序" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wn-I9im4zyKSfdLFJuxH-46">
+          <mxGeometry x="-0.2667" y="2" relative="1" as="geometry">
+            <mxPoint x="-2" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wn-I9im4zyKSfdLFJuxH-36" value="LocalLauncher" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wn-I9im4zyKSfdLFJuxH-41" value="RemoteLauncher" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wn-I9im4zyKSfdLFJuxH-42" value="DummyLauncher" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wn-I9im4zyKSfdLFJuxH-43" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
