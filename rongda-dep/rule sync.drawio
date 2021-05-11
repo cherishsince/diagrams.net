@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-11T00:42:59.646Z" agent="5.0 (Macintosh; Intel Mac OS X 11_3_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="19WHh_gPGOlPKhq94WtG" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-11T00:44:46.791Z" agent="5.0 (Macintosh; Intel Mac OS X 11_3_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="m86358pwqDxFTi-GxAOP" version="14.6.11" type="github">
   <diagram id="WUAuQ661FUCSZRNOvEQn" name="Page-1">
     <mxGraphModel dx="1127" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,16 +32,31 @@
           <mxGeometry x="250" y="290" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XsgKN6pSHH5uCLjIUDn7-11" value="deqc-节点1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XsgKN6pSHH5uCLjIUDn7-12" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XsgKN6pSHH5uCLjIUDn7-16" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="355" as="sourcePoint" />
             <mxPoint x="460" y="185" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XsgKN6pSHH5uCLjIUDn7-17" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="269.5" as="sourcePoint" />
+            <mxPoint x="520" y="269.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XsgKN6pSHH5uCLjIUDn7-18" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="360" as="sourcePoint" />
+            <mxPoint x="250" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XsgKN6pSHH5uCLjIUDn7-19" value="节点同步" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="466" y="290" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
