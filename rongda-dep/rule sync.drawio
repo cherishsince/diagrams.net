@@ -1,16 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-05-11T00:36:10.405Z" agent="5.0 (Macintosh; Intel Mac OS X 11_3_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="Fci_A79rL3GVkPDUMH9C" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-11T00:42:39.615Z" agent="5.0 (Macintosh; Intel Mac OS X 11_3_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="ZttJ4GZdsrbYW302GkA5" version="14.6.11" type="github">
   <diagram id="WUAuQ661FUCSZRNOvEQn" name="Page-1">
     <mxGraphModel dx="1127" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XsgKN6pSHH5uCLjIUDn7-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="70" y="530" width="60" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="XsgKN6pSHH5uCLjIUDn7-3" value="模板1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XsgKN6pSHH5uCLjIUDn7-4" value="模板2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XsgKN6pSHH5uCLjIUDn7-4" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XsgKN6pSHH5uCLjIUDn7-6" value="" style="endArrow=none;html=1;" edge="1" parent="1">
@@ -21,6 +18,30 @@
         </mxCell>
         <mxCell id="XsgKN6pSHH5uCLjIUDn7-7" value="多模板合并" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="100" y="120" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XsgKN6pSHH5uCLjIUDn7-8" value="deqc-识别的规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="XsgKN6pSHH5uCLjIUDn7-9" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="269.5" as="sourcePoint" />
+            <mxPoint x="310" y="269.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XsgKN6pSHH5uCLjIUDn7-10" value="规则生成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="290" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XsgKN6pSHH5uCLjIUDn7-11" value="deqc-节点1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XsgKN6pSHH5uCLjIUDn7-12" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XsgKN6pSHH5uCLjIUDn7-16" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="355" as="sourcePoint" />
+            <mxPoint x="460" y="185" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
