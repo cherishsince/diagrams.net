@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T08:04:56.642Z" agent="5.0 (Macintosh; Intel Mac OS X 11_3_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="gDiI7dWLPOLXW5fFKib6" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-12T08:05:09.597Z" agent="5.0 (Macintosh; Intel Mac OS X 11_3_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="ziB_NBUKrk9lRewpGieX" version="14.6.12" type="github">
   <diagram id="Ua9Ezlw8lN_SYHWKglm6" name="第 1 页">
     <mxGraphModel dx="1127" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="3OkUab6tCFNkmtSCS4Bt-16" value="..." style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="520" y="610" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3OkUab6tCFNkmtSCS4Bt-23" value="后台管理(Vue、ElementUI)、微信、小程序、H5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="3OkUab6tCFNkmtSCS4Bt-23" value="后台(Vue、ElementUI)、微信、小程序、H5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="110" y="130" width="580" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3OkUab6tCFNkmtSCS4Bt-34" value="中间件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
