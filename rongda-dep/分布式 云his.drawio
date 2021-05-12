@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T08:38:03.729Z" agent="5.0 (Macintosh; Intel Mac OS X 11_3_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="Rbwd6H2-q-RGEZY5SAhj" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-12T08:39:59.169Z" agent="5.0 (Macintosh; Intel Mac OS X 11_3_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="B3ZqtbAeLoKYsBDKDgBC" version="14.6.12" type="github">
   <diagram id="Ua9Ezlw8lN_SYHWKglm6" name="第 1 页">
     <mxGraphModel dx="1127" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,6 +114,9 @@
         </mxCell>
         <mxCell id="3OkUab6tCFNkmtSCS4Bt-59" value="Restful API" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="150" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="3OkUab6tCFNkmtSCS4Bt-61" value="zipkin、sleuth" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1130" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
