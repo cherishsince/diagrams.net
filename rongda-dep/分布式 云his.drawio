@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T08:00:20.244Z" agent="5.0 (Macintosh; Intel Mac OS X 11_3_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="mhScehQ7Ea5R5K62BZLH" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-12T08:00:47.217Z" agent="5.0 (Macintosh; Intel Mac OS X 11_3_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="H4xisaQ0m4sgtnr70yFt" version="14.6.12" type="github">
   <diagram id="Ua9Ezlw8lN_SYHWKglm6" name="第 1 页">
     <mxGraphModel dx="1127" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="3OkUab6tCFNkmtSCS4Bt-18" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="105" y="577" width="590" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="3OkUab6tCFNkmtSCS4Bt-23" value="Vue、ElementUI、" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3OkUab6tCFNkmtSCS4Bt-23" value="Vue、ElementUI、" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="110" y="130" width="580" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3OkUab6tCFNkmtSCS4Bt-34" value="中间件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
@@ -78,9 +78,6 @@
         </mxCell>
         <mxCell id="3OkUab6tCFNkmtSCS4Bt-44" value="Seata" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="340" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3OkUab6tCFNkmtSCS4Bt-45" value="数据统计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3OkUab6tCFNkmtSCS4Bt-46" value="XXL-JOB" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="270" y="500" width="120" height="60" as="geometry" />
