@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T07:55:56.535Z" agent="5.0 (Macintosh; Intel Mac OS X 11_3_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="C-5zkyHBGkAxIkxD2l_o" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-12T07:58:37.391Z" agent="5.0 (Macintosh; Intel Mac OS X 11_3_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="uquigAwgtwGYygqFIS1q" version="14.6.12" type="github">
   <diagram id="Ua9Ezlw8lN_SYHWKglm6" name="第 1 页">
     <mxGraphModel dx="1127" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3OkUab6tCFNkmtSCS4Bt-39" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="3OkUab6tCFNkmtSCS4Bt-39" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="110" y="290" width="140" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="3OkUab6tCFNkmtSCS4Bt-20" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="3OkUab6tCFNkmtSCS4Bt-20" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="550" y="290" width="140" height="270" as="geometry" />
         </mxCell>
         <mxCell id="3OkUab6tCFNkmtSCS4Bt-4" value="RocketMQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -16,8 +16,8 @@
         <mxCell id="3OkUab6tCFNkmtSCS4Bt-5" value="ElasticSearch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3OkUab6tCFNkmtSCS4Bt-7" value="网关(Netflex Zuul)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="210" width="510" height="60" as="geometry" />
+        <mxCell id="3OkUab6tCFNkmtSCS4Bt-7" value="网关(Spring Cloud Gateway)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="210" width="580" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3OkUab6tCFNkmtSCS4Bt-9" value="MySql" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="120" y="610" width="60" height="80" as="geometry" />
@@ -40,13 +40,13 @@
         <mxCell id="3OkUab6tCFNkmtSCS4Bt-18" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="105" y="577" width="590" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="3OkUab6tCFNkmtSCS4Bt-23" value="Vue、ElementUI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="130" width="510" height="60" as="geometry" />
+        <mxCell id="3OkUab6tCFNkmtSCS4Bt-23" value="Vue、ElementUI、" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="130" width="580" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3OkUab6tCFNkmtSCS4Bt-34" value="中间件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="595" y="300" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3OkUab6tCFNkmtSCS4Bt-21" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="3OkUab6tCFNkmtSCS4Bt-21" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="260" y="290" width="280" height="190" as="geometry" />
         </mxCell>
         <mxCell id="3OkUab6tCFNkmtSCS4Bt-24" value="服务1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -76,11 +76,17 @@
         <mxCell id="3OkUab6tCFNkmtSCS4Bt-41" value="Nacos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3OkUab6tCFNkmtSCS4Bt-43" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="50" y="190" width="40" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="3OkUab6tCFNkmtSCS4Bt-44" value="Seata" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3OkUab6tCFNkmtSCS4Bt-45" value="数据统计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3OkUab6tCFNkmtSCS4Bt-46" value="XXL-JOB" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3OkUab6tCFNkmtSCS4Bt-47" value="Spring Boot Admin" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="404" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
