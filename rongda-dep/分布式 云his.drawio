@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T08:10:47.736Z" agent="5.0 (Macintosh; Intel Mac OS X 11_3_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="YH6wDHYZxjWjY_XRyBEX" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-12T08:13:36.949Z" agent="5.0 (Macintosh; Intel Mac OS X 11_3_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="XTG5u-KVD5E5R13JLUda" version="14.6.12" type="github">
   <diagram id="Ua9Ezlw8lN_SYHWKglm6" name="第 1 页">
     <mxGraphModel dx="1127" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,8 +19,8 @@
         <mxCell id="3OkUab6tCFNkmtSCS4Bt-5" value="ElasticSearch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3OkUab6tCFNkmtSCS4Bt-7" value="网关(Spring Cloud Gateway)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="110" y="210" width="580" height="60" as="geometry" />
+        <mxCell id="3OkUab6tCFNkmtSCS4Bt-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="110" y="200" width="580" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3OkUab6tCFNkmtSCS4Bt-9" value="MySql" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="120" y="610" width="60" height="80" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="520" y="610" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3OkUab6tCFNkmtSCS4Bt-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="110" y="130" width="580" height="60" as="geometry" />
+          <mxGeometry x="110" y="120" width="580" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3OkUab6tCFNkmtSCS4Bt-34" value="中间件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="595" y="300" width="50" height="20" as="geometry" />
@@ -89,10 +89,31 @@
           <mxGeometry x="364" y="590" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3OkUab6tCFNkmtSCS4Bt-51" value="Restful API" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="142.5" width="120" height="35" as="geometry" />
+          <mxGeometry x="354" y="150" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="3OkUab6tCFNkmtSCS4Bt-52" value="PC、H5 （Vue、Element UI）" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="142.5" width="210" height="35" as="geometry" />
+          <mxGeometry x="120" y="150" width="210" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="3OkUab6tCFNkmtSCS4Bt-53" value="地址路由" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="230" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="3OkUab6tCFNkmtSCS4Bt-54" value="&lt;span&gt;网关(Spring Cloud Gateway)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="304" y="205" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3OkUab6tCFNkmtSCS4Bt-55" value="请求过滤" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="230" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="3OkUab6tCFNkmtSCS4Bt-56" value="API鉴权" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="404" y="230" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="3OkUab6tCFNkmtSCS4Bt-57" value="链路追踪" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="230" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="3OkUab6tCFNkmtSCS4Bt-58" value="展示层/开放API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="123" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3OkUab6tCFNkmtSCS4Bt-59" value="Restful API" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="150" width="120" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
