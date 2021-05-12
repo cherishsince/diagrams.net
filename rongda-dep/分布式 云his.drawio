@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T07:58:37.391Z" agent="5.0 (Macintosh; Intel Mac OS X 11_3_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="uquigAwgtwGYygqFIS1q" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-12T08:00:04.678Z" agent="5.0 (Macintosh; Intel Mac OS X 11_3_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="B6emeff_8rsWwzmKyS-I" version="14.6.12" type="github">
   <diagram id="Ua9Ezlw8lN_SYHWKglm6" name="第 1 页">
     <mxGraphModel dx="1127" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="3OkUab6tCFNkmtSCS4Bt-5" value="ElasticSearch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3OkUab6tCFNkmtSCS4Bt-7" value="网关(Spring Cloud Gateway)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3OkUab6tCFNkmtSCS4Bt-7" value="网关(Spring Cloud Gateway)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="110" y="210" width="580" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3OkUab6tCFNkmtSCS4Bt-9" value="MySql" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
@@ -65,7 +65,7 @@
           <mxGeometry x="370" y="300" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3OkUab6tCFNkmtSCS4Bt-37" value="Histrix" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="335" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3OkUab6tCFNkmtSCS4Bt-38" value="Ribbon" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="410" width="120" height="60" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="150" y="300" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3OkUab6tCFNkmtSCS4Bt-41" value="Nacos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="335" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3OkUab6tCFNkmtSCS4Bt-44" value="Seata" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="340" width="120" height="60" as="geometry" />
@@ -82,11 +82,11 @@
         <mxCell id="3OkUab6tCFNkmtSCS4Bt-45" value="数据统计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3OkUab6tCFNkmtSCS4Bt-46" value="XXL-JOB" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="500" width="120" height="60" as="geometry" />
+        <mxCell id="3OkUab6tCFNkmtSCS4Bt-46" value="XXL-JOB" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="270" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3OkUab6tCFNkmtSCS4Bt-47" value="Spring Boot Admin" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="404" y="500" width="120" height="60" as="geometry" />
+        <mxCell id="3OkUab6tCFNkmtSCS4Bt-47" value="Spring Boot Admin" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="414" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
