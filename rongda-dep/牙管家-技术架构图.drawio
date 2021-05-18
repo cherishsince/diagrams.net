@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T10:01:47.869Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="FDkbDhp9kb4xVtKne9TA" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-18T10:03:45.585Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="nwYI8sJysLH8D8ItTAi7" version="14.6.12" type="github">
   <diagram id="UyZ9Xo_nCdIvpjkZKFdj" name="第 1 页">
     <mxGraphModel dx="1127" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,12 +79,6 @@
         <mxCell id="NeJHOYMAFxxggkwu5jM7-25" value="Seata" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NeJHOYMAFxxggkwu5jM7-26" value="XXL-JOB" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="260" y="500" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NeJHOYMAFxxggkwu5jM7-27" value="Spring Boot Admin" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="410" y="500" width="130" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="NeJHOYMAFxxggkwu5jM7-28" value="数据层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="364" y="590" width="50" height="20" as="geometry" />
         </mxCell>
@@ -116,19 +110,16 @@
           <mxGeometry x="520" y="150" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="NeJHOYMAFxxggkwu5jM7-38" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="370" y="770" width="140" height="270" as="geometry" />
-        </mxCell>
-        <mxCell id="NeJHOYMAFxxggkwu5jM7-39" value="Sleuth +&amp;nbsp;Zipkin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="895" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="488.5" width="280" height="71.5" as="geometry" />
         </mxCell>
         <mxCell id="NeJHOYMAFxxggkwu5jM7-41" value="监控/链路追踪" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="395" y="780" width="90" height="20" as="geometry" />
+          <mxGeometry x="330" y="490" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NeJHOYMAFxxggkwu5jM7-42" value="Skywalking" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="282" y="516" width="96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NeJHOYMAFxxggkwu5jM7-43" value="Spring Boot Admin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="970" width="120" height="60" as="geometry" />
+          <mxGeometry x="409" y="516" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
