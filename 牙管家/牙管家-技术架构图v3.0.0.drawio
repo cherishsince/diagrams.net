@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-18T14:17:52.752Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Sa4vxHLoQlqa-iYi6gdW" version="14.6.12" type="github">
+<mxfile modified="2021-05-18T14:18:35.615Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Q-ohklSO0sSiKUHdpY4B" version="14.6.12" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1127" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -248,6 +248,11 @@
         </mxCell>
         <mxCell id="YSa-EoMsZSixKYGq4C52-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="0uG4Tocew_sGN1QZeJdq-19" target="0uG4Tocew_sGN1QZeJdq-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YSa-EoMsZSixKYGq4C52-9" value="ribbon 负载均衡" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YSa-EoMsZSixKYGq4C52-7">
+          <mxGeometry x="-0.1042" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
