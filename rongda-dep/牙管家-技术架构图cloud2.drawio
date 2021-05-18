@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-18T12:58:35.212Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="PkP9Q2TS1rdvISvWkqxq" version="14.6.12" type="github">
+<mxfile modified="2021-05-18T12:59:16.587Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="siYv4n4SoARt5oi-AWuB" version="14.6.12" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1127" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -203,8 +203,8 @@
         <mxCell id="ij2_FURvqXdRc3KbHj5h-40" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service_package_file;dashed=1;" vertex="1" parent="ij2_FURvqXdRc3KbHj5h-46">
           <mxGeometry x="33" width="42.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ij2_FURvqXdRc3KbHj5h-44" value="Spring Gateway1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="ij2_FURvqXdRc3KbHj5h-46">
-          <mxGeometry y="50" width="110" height="20" as="geometry" />
+        <mxCell id="ij2_FURvqXdRc3KbHj5h-44" value="Gateway1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="ij2_FURvqXdRc3KbHj5h-46">
+          <mxGeometry x="20" y="50" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ij2_FURvqXdRc3KbHj5h-47" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="368" y="975" width="110" height="70" as="geometry" />
@@ -212,8 +212,8 @@
         <mxCell id="ij2_FURvqXdRc3KbHj5h-41" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service_package_file;dashed=1;" vertex="1" parent="ij2_FURvqXdRc3KbHj5h-47">
           <mxGeometry x="33" width="42.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ij2_FURvqXdRc3KbHj5h-45" value="Spring Gateway2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="ij2_FURvqXdRc3KbHj5h-47">
-          <mxGeometry y="50" width="110" height="20" as="geometry" />
+        <mxCell id="ij2_FURvqXdRc3KbHj5h-45" value="Gateway2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="ij2_FURvqXdRc3KbHj5h-47">
+          <mxGeometry x="20" y="50" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ij2_FURvqXdRc3KbHj5h-48" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="367" y="1070" width="110" height="70" as="geometry" />
@@ -221,8 +221,8 @@
         <mxCell id="ij2_FURvqXdRc3KbHj5h-42" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service_package_file;dashed=1;" vertex="1" parent="ij2_FURvqXdRc3KbHj5h-48">
           <mxGeometry x="34" width="42.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ij2_FURvqXdRc3KbHj5h-43" value="Spring Gateway3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="ij2_FURvqXdRc3KbHj5h-48">
-          <mxGeometry y="50" width="110" height="20" as="geometry" />
+        <mxCell id="ij2_FURvqXdRc3KbHj5h-43" value="Gateway3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="ij2_FURvqXdRc3KbHj5h-48">
+          <mxGeometry x="20" y="50" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
