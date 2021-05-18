@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-18T14:36:35.501Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="NNFf5L5O4-reoyeKtY4_" version="14.6.12" type="github">
+<mxfile modified="2021-05-18T14:37:10.085Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="l11JeBhurre8xFawMPp-" version="14.6.12" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1127" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -320,6 +320,9 @@
         </mxCell>
         <mxCell id="YSa-EoMsZSixKYGq4C52-52" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.769;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YSa-EoMsZSixKYGq4C52-41" target="YSa-EoMsZSixKYGq4C52-25">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YSa-EoMsZSixKYGq4C52-57" value="熔断、限流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="786.25" y="1234" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
