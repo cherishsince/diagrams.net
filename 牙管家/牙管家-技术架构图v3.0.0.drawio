@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-20T02:06:23.550Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="JeKeQ2vQHIkwMT9tjfeN" version="14.6.13" type="github">
+<mxfile modified="2021-05-20T02:09:32.826Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="ygA00UziESY7VjSkjNUA" version="14.6.13" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="2494" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -292,7 +292,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YSa-EoMsZSixKYGq4C52-57" value="熔断、限流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-463.95000000000005" y="530" width="80" height="20" as="geometry" />
+          <mxGeometry x="-486.00000000000006" y="1319" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YSa-EoMsZSixKYGq4C52-58" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.health_monitoring;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-1052.09" y="1214" width="50" height="42.5" as="geometry" />
