@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-22T08:53:41.629Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="5G9Uq-YfdOckE8PDl7kN" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-22T08:55:51.085Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="bvVGKy-V1IzTJ3GSQpxi" version="14.6.13" type="github">
   <diagram id="evhqvJ9WRw2NddTgYNEN" name="第 1 页">
     <mxGraphModel dx="1126" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,14 +7,11 @@
         <mxCell id="0EiiD_cbW3VHCqX_TS2o-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="60" width="140" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="0EiiD_cbW3VHCqX_TS2o-4" value="咨询师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="890" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="0EiiD_cbW3VHCqX_TS2o-5" value="医生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0EiiD_cbW3VHCqX_TS2o-7" value="测量体温" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="1010" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0EiiD_cbW3VHCqX_TS2o-9" value="京东" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="90" width="120" height="30" as="geometry" />
@@ -65,8 +62,16 @@
         <mxCell id="0EiiD_cbW3VHCqX_TS2o-24" value="前台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="480" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0EiiD_cbW3VHCqX_TS2o-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="0EiiD_cbW3VHCqX_TS2o-36" target="0EiiD_cbW3VHCqX_TS2o-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EiiD_cbW3VHCqX_TS2o-84" value="咨询师接待客户" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0EiiD_cbW3VHCqX_TS2o-83">
+          <mxGeometry x="-0.1452" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0EiiD_cbW3VHCqX_TS2o-36" value="挂号、分诊" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="827" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0EiiD_cbW3VHCqX_TS2o-45" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="569" y="210" width="140" height="160" as="geometry" />
@@ -158,6 +163,9 @@
         </mxCell>
         <mxCell id="0EiiD_cbW3VHCqX_TS2o-73" value="确认到店" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0EiiD_cbW3VHCqX_TS2o-82" value="咨询师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
