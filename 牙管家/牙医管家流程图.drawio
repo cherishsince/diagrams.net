@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-22T09:43:18.337Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="HjdQgmlDFdXOL83LI58c" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-22T09:45:01.229Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="v9B4QVfMvXm2EBZczPBo" version="14.6.13" type="github">
   <diagram id="evhqvJ9WRw2NddTgYNEN" name="第 1 页">
     <mxGraphModel dx="1126" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -495,6 +495,12 @@
         </mxCell>
         <mxCell id="0EiiD_cbW3VHCqX_TS2o-253" value="回访" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1790" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0EiiD_cbW3VHCqX_TS2o-257" value="1、观察治疗后的情况" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1385" y="1460" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0EiiD_cbW3VHCqX_TS2o-258" value="2、治疗后，如果存在不适，身体不舒服，需要再次预约到店" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1385" y="1490" width="330" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
