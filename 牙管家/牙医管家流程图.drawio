@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-22T09:22:22.530Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="1gjRO0CJfimCUoNwqIpN" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-22T09:23:13.187Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="wa2UUNLjf8C1gEotAQ0B" version="14.6.13" type="github">
   <diagram id="evhqvJ9WRw2NddTgYNEN" name="第 1 页">
     <mxGraphModel dx="1126" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -354,6 +354,14 @@
         <mxCell id="0EiiD_cbW3VHCqX_TS2o-172" value="打印充值金额" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2210" y="890" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0EiiD_cbW3VHCqX_TS2o-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0EiiD_cbW3VHCqX_TS2o-174">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2068" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EiiD_cbW3VHCqX_TS2o-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="0EiiD_cbW3VHCqX_TS2o-174" target="0EiiD_cbW3VHCqX_TS2o-183">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0EiiD_cbW3VHCqX_TS2o-174" value="医生治疗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2008" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
@@ -374,6 +382,9 @@
         </mxCell>
         <mxCell id="0EiiD_cbW3VHCqX_TS2o-181" value="治疗分类、种植、正畸 需要划价" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1973" y="1149" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0EiiD_cbW3VHCqX_TS2o-183" value="改天治疗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
