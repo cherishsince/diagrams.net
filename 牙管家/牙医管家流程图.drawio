@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-22T12:53:01.720Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="XJUbItyY4VYfAIfVTdGR" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-23T12:50:02.828Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="s0P2zBlPrkmDuTcNDPeI" version="14.6.13" type="github">
   <diagram id="evhqvJ9WRw2NddTgYNEN" name="第 1 页">
-    <mxGraphModel dx="1877" dy="1285" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1325" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -513,6 +513,68 @@
         </mxCell>
         <mxCell id="0EiiD_cbW3VHCqX_TS2o-263" value="2、咨询师，就是医生的助理，手术后 等回访工作都有 咨询师完成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="975" y="585" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0EiiD_cbW3VHCqX_TS2o-264" value="获客" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0EiiD_cbW3VHCqX_TS2o-274" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;dashed=1;" edge="1" parent="1" source="0EiiD_cbW3VHCqX_TS2o-265" target="0EiiD_cbW3VHCqX_TS2o-264">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EiiD_cbW3VHCqX_TS2o-275" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="0EiiD_cbW3VHCqX_TS2o-265" target="0EiiD_cbW3VHCqX_TS2o-266">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EiiD_cbW3VHCqX_TS2o-265" value="营销部" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0EiiD_cbW3VHCqX_TS2o-276" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="0EiiD_cbW3VHCqX_TS2o-266" target="0EiiD_cbW3VHCqX_TS2o-267">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EiiD_cbW3VHCqX_TS2o-266" value="客服" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0EiiD_cbW3VHCqX_TS2o-277" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="0EiiD_cbW3VHCqX_TS2o-267" target="0EiiD_cbW3VHCqX_TS2o-268">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EiiD_cbW3VHCqX_TS2o-267" value="预约" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0EiiD_cbW3VHCqX_TS2o-279" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="0EiiD_cbW3VHCqX_TS2o-268" target="0EiiD_cbW3VHCqX_TS2o-269">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EiiD_cbW3VHCqX_TS2o-268" value="前台" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0EiiD_cbW3VHCqX_TS2o-280" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="0EiiD_cbW3VHCqX_TS2o-269" target="0EiiD_cbW3VHCqX_TS2o-270">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EiiD_cbW3VHCqX_TS2o-269" value="确认方案" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0EiiD_cbW3VHCqX_TS2o-281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="0EiiD_cbW3VHCqX_TS2o-270" target="0EiiD_cbW3VHCqX_TS2o-271">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EiiD_cbW3VHCqX_TS2o-270" value="收费" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0EiiD_cbW3VHCqX_TS2o-286" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="0EiiD_cbW3VHCqX_TS2o-271" target="0EiiD_cbW3VHCqX_TS2o-282">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EiiD_cbW3VHCqX_TS2o-271" value="治疗" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0EiiD_cbW3VHCqX_TS2o-282" value="送别用户" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="2050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0EiiD_cbW3VHCqX_TS2o-285" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=1;dashed=1;" edge="1" parent="1" source="0EiiD_cbW3VHCqX_TS2o-283" target="0EiiD_cbW3VHCqX_TS2o-267">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="2240" />
+              <mxPoint x="820" y="1905" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EiiD_cbW3VHCqX_TS2o-283" value="回访" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="2210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
