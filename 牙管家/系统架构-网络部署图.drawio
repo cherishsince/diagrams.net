@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T03:47:39.539Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="QGULjYVALxfNlGeCxqw3" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-24T03:48:53.411Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="SEec6srzBV6K7wc--O_e" version="14.6.13" type="github">
   <diagram name="Page-1" id="aaaa8250-4180-3840-79b5-4cada1eebb92">
-    <mxGraphModel dx="4553" dy="2380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5403" dy="2380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -176,7 +176,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LoBBVImWNWukxEiY-rpg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LoBBVImWNWukxEiY-rpg-7" target="LoBBVImWNWukxEiY-rpg-10">
+        <mxCell id="LoBBVImWNWukxEiY-rpg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="LoBBVImWNWukxEiY-rpg-16" target="LoBBVImWNWukxEiY-rpg-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LoBBVImWNWukxEiY-rpg-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LoBBVImWNWukxEiY-rpg-7" target="LoBBVImWNWukxEiY-rpg-12">
@@ -187,22 +187,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LoBBVImWNWukxEiY-rpg-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.vpcGateway;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="827.87" y="2822.45" width="320.13" height="282" as="geometry" />
+          <mxGeometry x="220" y="2842.45" width="320.13" height="282" as="geometry" />
         </mxCell>
         <mxCell id="LoBBVImWNWukxEiY-rpg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LoBBVImWNWukxEiY-rpg-8" target="LoBBVImWNWukxEiY-rpg-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LoBBVImWNWukxEiY-rpg-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.end_user;strokeColor=none;fillColor=#777777;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="160" y="2790" width="169.2" height="346.9" as="geometry" />
+          <mxGeometry x="-240" y="2810" width="169.2" height="346.9" as="geometry" />
         </mxCell>
         <mxCell id="LoBBVImWNWukxEiY-rpg-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.dataServer;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1713" y="2863.45" width="232.08" height="200" as="geometry" />
+          <mxGeometry x="1653" y="2883.45" width="232.08" height="200" as="geometry" />
         </mxCell>
         <mxCell id="LoBBVImWNWukxEiY-rpg-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.dataServer;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1713" y="2430" width="232.08" height="200" as="geometry" />
+          <mxGeometry x="1653" y="2450" width="232.08" height="200" as="geometry" />
         </mxCell>
         <mxCell id="LoBBVImWNWukxEiY-rpg-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.dataServer;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1700" y="3230" width="232.08" height="200" as="geometry" />
+          <mxGeometry x="1640" y="3250" width="232.08" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="LoBBVImWNWukxEiY-rpg-16" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.customerGateway;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="831.13" y="2850" width="309.69" height="272.8" as="geometry" />
+        </mxCell>
+        <mxCell id="LoBBVImWNWukxEiY-rpg-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="LoBBVImWNWukxEiY-rpg-7" target="LoBBVImWNWukxEiY-rpg-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="831.1300000000001" y="2963.45" as="sourcePoint" />
+            <mxPoint x="1713" y="2963.45" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
