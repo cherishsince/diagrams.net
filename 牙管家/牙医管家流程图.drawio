@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T08:19:20.007Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="i3484Boeju38xboDqaN6" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-24T08:19:43.744Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="gsJk1cu4r81SpoZHmB_e" version="14.6.13" type="github">
   <diagram id="evhqvJ9WRw2NddTgYNEN" name="第 1 页">
     <mxGraphModel dx="1609" dy="1101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -142,13 +142,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0EiiD_cbW3VHCqX_TS2o-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;curved=1;" edge="1" parent="1" source="0EiiD_cbW3VHCqX_TS2o-52" target="0EiiD_cbW3VHCqX_TS2o-21">
+        <mxCell id="0EiiD_cbW3VHCqX_TS2o-59" value="自动回收" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;curved=1;" edge="1" parent="1" source="0EiiD_cbW3VHCqX_TS2o-52" target="0EiiD_cbW3VHCqX_TS2o-21">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0EiiD_cbW3VHCqX_TS2o-315" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0EiiD_cbW3VHCqX_TS2o-59">
-          <mxGeometry x="-0.0748" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="0EiiD_cbW3VHCqX_TS2o-52" value="30天超时回收" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="20" width="120" height="60" as="geometry" />
