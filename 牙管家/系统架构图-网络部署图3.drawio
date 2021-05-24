@@ -1,9 +1,12 @@
-<mxfile modified="2021-05-24T06:22:05.980Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="z-8ZxJAbsej0rprLmd8s" version="14.6.13" type="github">
+<mxfile modified="2021-05-24T06:34:00.506Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="xlaEQtTSQ-ksHqD7QP1L" version="14.6.13" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1126" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6-B9HyYre-HtNEmpCuTt-71" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="681.5" y="940" width="177.5" height="90" as="geometry" />
+        </mxCell>
         <mxCell id="6-B9HyYre-HtNEmpCuTt-19" value="网&lt;br&gt;关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="562.36" width="20" height="242.25" as="geometry" />
         </mxCell>
@@ -209,63 +212,63 @@
           <mxGeometry x="10" y="18.5" width="50" height="15" as="geometry" />
         </mxCell>
         <mxCell id="6-B9HyYre-HtNEmpCuTt-37" value="网&lt;br&gt;关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="1010" width="20" height="242.25" as="geometry" />
+          <mxGeometry x="390" y="1180" width="20" height="242.25" as="geometry" />
         </mxCell>
         <mxCell id="6-B9HyYre-HtNEmpCuTt-38" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server_rack;" vertex="1" parent="1">
-          <mxGeometry x="503" y="1106.13" width="50" height="50" as="geometry" />
+          <mxGeometry x="503" y="1276.13" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6-B9HyYre-HtNEmpCuTt-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6-B9HyYre-HtNEmpCuTt-40">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="1113.6399999999999" as="targetPoint" />
+            <mxPoint x="320" y="1283.6399999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6-B9HyYre-HtNEmpCuTt-40" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.content_delivery_network;" vertex="1" parent="1">
-          <mxGeometry x="195" y="1097.3899999999999" width="50" height="32.5" as="geometry" />
+          <mxGeometry x="195" y="1267.3899999999999" width="50" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="6-B9HyYre-HtNEmpCuTt-41" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server_rack;" vertex="1" parent="1">
-          <mxGeometry x="503" y="1024.88" width="50" height="50" as="geometry" />
+          <mxGeometry x="503" y="1194.88" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6-B9HyYre-HtNEmpCuTt-42" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server_rack;" vertex="1" parent="1">
-          <mxGeometry x="503" y="1187.6399999999999" width="50" height="50" as="geometry" />
+          <mxGeometry x="503" y="1357.6399999999999" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6-B9HyYre-HtNEmpCuTt-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.055;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6-B9HyYre-HtNEmpCuTt-44" target="6-B9HyYre-HtNEmpCuTt-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6-B9HyYre-HtNEmpCuTt-44" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.laptop;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1098.6399999999999" width="50" height="30" as="geometry" />
+          <mxGeometry x="60" y="1268.6399999999999" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6-B9HyYre-HtNEmpCuTt-45" value="防火墙" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="195" y="1137.6399999999999" width="50" height="20" as="geometry" />
+          <mxGeometry x="195" y="1307.6399999999999" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6-B9HyYre-HtNEmpCuTt-46" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="1047.6399999999999" as="sourcePoint" />
-            <mxPoint x="490" y="1047.6399999999999" as="targetPoint" />
+            <mxPoint x="430" y="1217.6399999999999" as="sourcePoint" />
+            <mxPoint x="490" y="1217.6399999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6-B9HyYre-HtNEmpCuTt-47" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="1130.63" as="sourcePoint" />
-            <mxPoint x="490" y="1130.63" as="targetPoint" />
+            <mxPoint x="430" y="1300.63" as="sourcePoint" />
+            <mxPoint x="490" y="1300.63" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6-B9HyYre-HtNEmpCuTt-48" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="1212.1399999999999" as="sourcePoint" />
-            <mxPoint x="490" y="1212.1399999999999" as="targetPoint" />
+            <mxPoint x="430" y="1382.1399999999999" as="sourcePoint" />
+            <mxPoint x="490" y="1382.1399999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6-B9HyYre-HtNEmpCuTt-49" value="Server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="503" y="1074.88" width="50" height="20" as="geometry" />
+          <mxGeometry x="503" y="1244.88" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6-B9HyYre-HtNEmpCuTt-50" value="Server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="503" y="1156.13" width="50" height="20" as="geometry" />
+          <mxGeometry x="503" y="1326.13" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6-B9HyYre-HtNEmpCuTt-51" value="Server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="503" y="1237.6399999999999" width="50" height="20" as="geometry" />
+          <mxGeometry x="503" y="1407.6399999999999" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6-B9HyYre-HtNEmpCuTt-52" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="310" y="1096.3899999999999" width="70" height="53.5" as="geometry" />
+          <mxGeometry x="310" y="1266.3899999999999" width="70" height="53.5" as="geometry" />
         </mxCell>
         <mxCell id="6-B9HyYre-HtNEmpCuTt-53" value="Nginx/SLB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="6-B9HyYre-HtNEmpCuTt-52">
           <mxGeometry y="33.5" width="70" height="20" as="geometry" />
@@ -275,6 +278,57 @@
         </mxCell>
         <mxCell id="6-B9HyYre-HtNEmpCuTt-55" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server;" vertex="1" parent="6-B9HyYre-HtNEmpCuTt-52">
           <mxGeometry x="10" y="18.5" width="50" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="6-B9HyYre-HtNEmpCuTt-57" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mysql_database;" vertex="1" parent="1">
+          <mxGeometry x="702" y="960" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6-B9HyYre-HtNEmpCuTt-58" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mysql_database;" vertex="1" parent="1">
+          <mxGeometry x="799" y="960" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6-B9HyYre-HtNEmpCuTt-67" value="" style="endArrow=classic;startArrow=classic;html=1;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6-B9HyYre-HtNEmpCuTt-57" target="6-B9HyYre-HtNEmpCuTt-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="769" y="950" as="sourcePoint" />
+            <mxPoint x="799" y="985" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6-B9HyYre-HtNEmpCuTt-72" value="主备" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="748" y="990" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6-B9HyYre-HtNEmpCuTt-73" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="679.5" y="1050" width="177.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6-B9HyYre-HtNEmpCuTt-74" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mysql_database;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1070" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6-B9HyYre-HtNEmpCuTt-75" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mysql_database;" vertex="1" parent="1">
+          <mxGeometry x="797" y="1070" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6-B9HyYre-HtNEmpCuTt-76" value="" style="endArrow=classic;startArrow=classic;html=1;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6-B9HyYre-HtNEmpCuTt-74" target="6-B9HyYre-HtNEmpCuTt-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="767" y="1060" as="sourcePoint" />
+            <mxPoint x="797" y="1095" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6-B9HyYre-HtNEmpCuTt-77" value="主备" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="746" y="1100" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6-B9HyYre-HtNEmpCuTt-78" value="分区一" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="681.5" y="940" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6-B9HyYre-HtNEmpCuTt-79" value="分区二" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="679.5" y="1050" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6-B9HyYre-HtNEmpCuTt-92" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server_rack;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="678.5" y="1340" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6-B9HyYre-HtNEmpCuTt-95" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="678.5" y="1450" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6-B9HyYre-HtNEmpCuTt-93" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server_rack;dashed=1;" vertex="1" parent="6-B9HyYre-HtNEmpCuTt-95">
+          <mxGeometry width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6-B9HyYre-HtNEmpCuTt-94" value="NFS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="6-B9HyYre-HtNEmpCuTt-95">
+          <mxGeometry x="5" y="50" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
