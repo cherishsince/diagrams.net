@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T08:20:45.478Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="jZMsSv61PxpC4k6Y13A8" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-24T08:21:00.548Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="sTBj3jWVN-L1am_45Jwx" version="14.6.13" type="github">
   <diagram id="evhqvJ9WRw2NddTgYNEN" name="第 1 页">
     <mxGraphModel dx="1609" dy="1101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -181,6 +181,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="20" y="420" as="sourcePoint" />
             <mxPoint x="1651" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EiiD_cbW3VHCqX_TS2o-318" value="用户到店" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0EiiD_cbW3VHCqX_TS2o-69">
+          <mxGeometry x="0.0575" y="7" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0EiiD_cbW3VHCqX_TS2o-70" value="门店诊所" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
