@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T02:46:17.947Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="sG6nEXyw8YNFFiyeCnE-" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-25T02:46:33.267Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="gWuMBpa_xzeLndmPfDaG" version="14.6.13" type="github">
   <diagram id="8aF56Z5qHwLwKqurhbDC" name="第 1 页">
     <mxGraphModel dx="1126" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,6 +58,11 @@
         </mxCell>
         <mxCell id="sEkb_Y1sP3h0UVLatof6-64" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=ERzeroToMany;startFill=1;endArrow=ERone;endFill=0;dashed=1;" edge="1" parent="1" source="sEkb_Y1sP3h0UVLatof6-9" target="sEkb_Y1sP3h0UVLatof6-27">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sEkb_Y1sP3h0UVLatof6-65" value="随访用户，必是必须的" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sEkb_Y1sP3h0UVLatof6-64">
+          <mxGeometry x="0.5258" y="11" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="sEkb_Y1sP3h0UVLatof6-9" value="随访" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="360" width="120" height="60" as="geometry" />
