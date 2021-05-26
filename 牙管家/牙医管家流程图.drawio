@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T10:01:49.760Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="LZixVXOm0ae7esqPWMVR" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-26T10:03:24.604Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="P7WxOfvHVvcqzTcSAbYW" version="14.7.0" type="github">
   <diagram id="evhqvJ9WRw2NddTgYNEN" name="第 1 页">
     <mxGraphModel dx="1126" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -417,8 +417,8 @@
         <mxCell id="0EiiD_cbW3VHCqX_TS2o-197" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8vEe03tUGYLI9Aa6l4HR-2" target="0EiiD_cbW3VHCqX_TS2o-174" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0EiiD_cbW3VHCqX_TS2o-198" value="医生诊疗" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0EiiD_cbW3VHCqX_TS2o-197" vertex="1" connectable="0">
-          <mxGeometry x="-0.0256" y="-2" relative="1" as="geometry">
+        <mxCell id="8vEe03tUGYLI9Aa6l4HR-9" value="医生治疗" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0EiiD_cbW3VHCqX_TS2o-197">
+          <mxGeometry x="-0.2636" y="29" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
