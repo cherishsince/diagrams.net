@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T03:31:55.028Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="gtnzrDU5EMPJtw5PbLNF" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T03:32:26.751Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="3uZWCbgCn2UVa_V3LWhA" version="14.7.2" type="github">
   <diagram id="Ua9Ezlw8lN_SYHWKglm6" name="第 1 页">
     <mxGraphModel dx="1126" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,9 +124,6 @@
         <mxCell id="lwGA5uG_przvCAxksVhe-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="550" y="1020" width="140" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="lwGA5uG_przvCAxksVhe-4" value="RocketMQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1145" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="lwGA5uG_przvCAxksVhe-5" value="ElasticSearch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
@@ -186,15 +183,6 @@
         </mxCell>
         <mxCell id="lwGA5uG_przvCAxksVhe-24" value="Eureka" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="1065" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lwGA5uG_przvCAxksVhe-25" value="Seata" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1070" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lwGA5uG_przvCAxksVhe-26" value="XXL-JOB" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1230" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lwGA5uG_przvCAxksVhe-27" value="Spring Boot Admin" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="410" y="1230" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lwGA5uG_przvCAxksVhe-28" value="数据层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="364" y="1320" width="50" height="20" as="geometry" />
