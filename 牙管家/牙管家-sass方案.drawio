@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-30T02:40:46.826Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="pgAGKFq8PKJXE48dEkyx" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-30T02:41:08.569Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="wTChHWV2TF-ymgg0G9dc" version="14.7.2" type="github">
   <diagram id="Bi-gjdyY0U7LMDahLdrq" name="第 1 页">
     <mxGraphModel dx="938" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,6 +13,11 @@
         <mxCell id="veMKRvSVrepSbo2_GfH5-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.369;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="veMKRvSVrepSbo2_GfH5-1" target="veMKRvSVrepSbo2_GfH5-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="veMKRvSVrepSbo2_GfH5-50" value="归属平台" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="veMKRvSVrepSbo2_GfH5-48">
+          <mxGeometry x="0.1007" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="veMKRvSVrepSbo2_GfH5-1" value="海淀区" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="500" width="120" height="60" as="geometry" />
         </mxCell>
@@ -24,6 +29,11 @@
         </mxCell>
         <mxCell id="veMKRvSVrepSbo2_GfH5-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.818;entryY=1.061;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="veMKRvSVrepSbo2_GfH5-2" target="veMKRvSVrepSbo2_GfH5-15">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="veMKRvSVrepSbo2_GfH5-51" value="归属平台" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="veMKRvSVrepSbo2_GfH5-49">
+          <mxGeometry x="0.2834" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="veMKRvSVrepSbo2_GfH5-2" value="重庆xx区" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="581" y="500" width="120" height="60" as="geometry" />
