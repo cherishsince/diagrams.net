@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-30T02:33:41.716Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="kXM7SCFTLhVaZwL6OkVQ" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-30T02:34:33.004Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="JJkF38_OqpDPiQVCVcPm" version="14.7.2" type="github">
   <diagram id="Bi-gjdyY0U7LMDahLdrq" name="第 1 页">
-    <mxGraphModel dx="1126" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="777" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,8 +16,14 @@
         <mxCell id="veMKRvSVrepSbo2_GfH5-1" value="海淀区" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="344" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="veMKRvSVrepSbo2_GfH5-2" value="重庆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="674" y="500" width="120" height="60" as="geometry" />
+        <mxCell id="veMKRvSVrepSbo2_GfH5-32" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="veMKRvSVrepSbo2_GfH5-2" target="veMKRvSVrepSbo2_GfH5-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="veMKRvSVrepSbo2_GfH5-33" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="veMKRvSVrepSbo2_GfH5-2" target="veMKRvSVrepSbo2_GfH5-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="veMKRvSVrepSbo2_GfH5-2" value="重庆xx区" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="veMKRvSVrepSbo2_GfH5-4" value="门店1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="234" y="660" width="120" height="60" as="geometry" />
@@ -65,6 +71,12 @@
         </mxCell>
         <mxCell id="veMKRvSVrepSbo2_GfH5-26" value="&lt;span&gt;门店管理员&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="660" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="veMKRvSVrepSbo2_GfH5-30" value="门店1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="veMKRvSVrepSbo2_GfH5-31" value="门店2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
