@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-30T02:44:32.579Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="MaA_52JHyISPIFzMyXei" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-30T02:44:45.566Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="avjuAyt0zHKLSrAA6mE_" version="14.7.2" type="github">
   <diagram id="Bi-gjdyY0U7LMDahLdrq" name="第 1 页">
     <mxGraphModel dx="1325" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,10 +72,10 @@
           <mxGeometry x="110" y="500" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="veMKRvSVrepSbo2_GfH5-15" value="云HIS平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="330" width="650" height="60" as="geometry" />
+          <mxGeometry x="80" y="330" width="680" height="60" as="geometry" />
         </mxCell>
         <mxCell id="veMKRvSVrepSbo2_GfH5-23" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="110" y="130" width="410" height="120" as="geometry" />
+          <mxGeometry x="79" y="140" width="410" height="120" as="geometry" />
         </mxCell>
         <mxCell id="veMKRvSVrepSbo2_GfH5-22" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="veMKRvSVrepSbo2_GfH5-23">
           <mxGeometry width="410" height="120" as="geometry" />
