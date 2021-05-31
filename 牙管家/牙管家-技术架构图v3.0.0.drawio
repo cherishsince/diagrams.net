@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-31T09:56:38.224Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="5E-U5anLGrbJ0r9xR8O9" version="14.7.3" type="github">
+<mxfile modified="2021-05-31T10:04:10.058Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="BkA5RROlw-JIIM9cB4pR" version="14.7.3" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="2295" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -530,7 +530,7 @@
         <mxCell id="up1hAMAxUK2febDQLGJo-34" value="Seata" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="325" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="up1hAMAxUK2febDQLGJo-35" value="XXL-JOB" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+        <mxCell id="up1hAMAxUK2febDQLGJo-35" value="日志组件" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="340" y="485" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="up1hAMAxUK2febDQLGJo-36" value="Spring Boot Admin" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
