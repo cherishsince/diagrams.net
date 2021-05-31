@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-31T09:44:21.930Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="myO3QdYY7KFwJTdAaci7" version="14.7.3" type="github">
+<mxfile modified="2021-05-31T09:56:38.224Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="5E-U5anLGrbJ0r9xR8O9" version="14.7.3" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="2295" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -539,11 +539,11 @@
         <mxCell id="up1hAMAxUK2febDQLGJo-37" value="数据层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="444" y="575" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="up1hAMAxUK2febDQLGJo-38" value="Restful API" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="444" y="135" width="120" height="35" as="geometry" />
+        <mxCell id="up1hAMAxUK2febDQLGJo-38" value="Nodejs" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="135" width="76" height="35" as="geometry" />
         </mxCell>
         <mxCell id="up1hAMAxUK2febDQLGJo-39" value="PC、H5 （Vue、Element UI）" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="135" width="210" height="35" as="geometry" />
+          <mxGeometry x="200" y="135" width="180" height="35" as="geometry" />
         </mxCell>
         <mxCell id="up1hAMAxUK2febDQLGJo-40" value="地址路由" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="215" width="120" height="35" as="geometry" />
@@ -571,6 +571,12 @@
         </mxCell>
         <mxCell id="NtJjcnI0GWwFdiNmjBoP-2" value="OSS对象存储" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="NtJjcnI0GWwFdiNmjBoP-5">
           <mxGeometry y="52.75" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NtJjcnI0GWwFdiNmjBoP-6" value="Restful API" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="135" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="NtJjcnI0GWwFdiNmjBoP-8" value="Webpack" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="494" y="135" width="76" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
