@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-05-31T03:24:25.855Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="auXvp8tS6L2IQ7qiSt5g" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-31T03:25:17.655Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="lA8FxPsgJNVFSbb7isif" version="14.7.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1126" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="网关" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="203" y="80" width="100" height="300" as="geometry" />
+          <mxGeometry x="203" y="80" width="100" height="570" as="geometry" />
         </mxCell>
         <mxCell id="uX1jMXB_K_jwAqzEaMTx-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-1">
           <mxGeometry x="57" y="150" width="10" height="80" as="geometry" />
@@ -19,10 +19,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="门诊服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="383" y="80" width="100" height="300" as="geometry" />
+          <mxGeometry x="383" y="80" width="100" height="570" as="geometry" />
         </mxCell>
         <mxCell id="uX1jMXB_K_jwAqzEaMTx-1" value="认证服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="563" y="80" width="100" height="310" as="geometry" />
+          <mxGeometry x="563" y="80" width="100" height="580" as="geometry" />
         </mxCell>
         <mxCell id="uX1jMXB_K_jwAqzEaMTx-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
           <mxGeometry x="248" y="160" width="10" height="150" as="geometry" />
@@ -41,10 +41,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uX1jMXB_K_jwAqzEaMTx-30" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="80" width="100" height="300" as="geometry" />
+          <mxGeometry x="40" y="80" width="100" height="580" as="geometry" />
         </mxCell>
         <mxCell id="uX1jMXB_K_jwAqzEaMTx-31" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="uX1jMXB_K_jwAqzEaMTx-30">
-          <mxGeometry x="45" y="80" width="10" height="180" as="geometry" />
+          <mxGeometry x="45" y="80" width="10" height="160" as="geometry" />
         </mxCell>
         <mxCell id="uX1jMXB_K_jwAqzEaMTx-33" value="账号密码登录" style="html=1;verticalAlign=bottom;endArrow=block;exitX=1;exitY=0.006;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.2;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uX1jMXB_K_jwAqzEaMTx-31" target="uX1jMXB_K_jwAqzEaMTx-14">
           <mxGeometry width="80" relative="1" as="geometry">
