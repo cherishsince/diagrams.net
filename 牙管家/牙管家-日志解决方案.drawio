@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" modified="2021-05-30T02:13:31.619Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="gbzSfFo6UPaoBezVbjsm" version="14.7.2" type="github">
+  <diagram id="dFJAkvRIx3amxAwlTc3C" name="第 1 页">
+    <mxGraphModel dx="1126" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KrFuYZlOuot2_a2a2JDB-1" value="数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="720" y="170" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KrFuYZlOuot2_a2a2JDB-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="180" y="170" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="KrFuYZlOuot2_a2a2JDB-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KrFuYZlOuot2_a2a2JDB-12">
+          <mxGeometry width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="KrFuYZlOuot2_a2a2JDB-6" value="日志拦截器" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="KrFuYZlOuot2_a2a2JDB-12">
+          <mxGeometry x="15" y="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KrFuYZlOuot2_a2a2JDB-7" value="控制层" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="KrFuYZlOuot2_a2a2JDB-12">
+          <mxGeometry x="15" y="70" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KrFuYZlOuot2_a2a2JDB-8" value="用户服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="KrFuYZlOuot2_a2a2JDB-12">
+          <mxGeometry x="30" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KrFuYZlOuot2_a2a2JDB-9" value="业务层" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="KrFuYZlOuot2_a2a2JDB-12">
+          <mxGeometry x="15" y="110" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KrFuYZlOuot2_a2a2JDB-10" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="KrFuYZlOuot2_a2a2JDB-12">
+          <mxGeometry x="15" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KrFuYZlOuot2_a2a2JDB-26" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="KrFuYZlOuot2_a2a2JDB-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KrFuYZlOuot2_a2a2JDB-27" value="保存至数据库和ES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KrFuYZlOuot2_a2a2JDB-26">
+          <mxGeometry x="-0.16" y="-1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KrFuYZlOuot2_a2a2JDB-20" value="日志服务/日志模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="185" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KrFuYZlOuot2_a2a2JDB-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KrFuYZlOuot2_a2a2JDB-6" target="KrFuYZlOuot2_a2a2JDB-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KrFuYZlOuot2_a2a2JDB-22" value="发送异常日志" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KrFuYZlOuot2_a2a2JDB-21">
+          <mxGeometry x="0.0074" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KrFuYZlOuot2_a2a2JDB-28" value="1、发送日志MQ、http 发送给日志服务，再进行保存" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="260" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KrFuYZlOuot2_a2a2JDB-30" value="ps：对方没有要求，异常预警" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="290" width="170" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

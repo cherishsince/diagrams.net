@@ -1,0 +1,42 @@
+<mxfile host="app.diagrams.net" modified="2021-05-30T02:23:07.762Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="qvZMcovizgsbtlq5--ox" version="14.7.2" type="github">
+  <diagram id="yOxXQESa26MW-8xLmlQ3" name="第 1 页">
+    <mxGraphModel dx="938" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-y8y_jzLavQzvouZhpaY-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="-y8y_jzLavQzvouZhpaY-1" target="-y8y_jzLavQzvouZhpaY-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-y8y_jzLavQzvouZhpaY-16" value="1、保存数据库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-y8y_jzLavQzvouZhpaY-15">
+          <mxGeometry x="-0.0606" y="7" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-y8y_jzLavQzvouZhpaY-17" value="2、同步到ES" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="-y8y_jzLavQzvouZhpaY-1" target="-y8y_jzLavQzvouZhpaY-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-y8y_jzLavQzvouZhpaY-1" value="修改患者信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-y8y_jzLavQzvouZhpaY-5" value="操作" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-y8y_jzLavQzvouZhpaY-2" target="-y8y_jzLavQzvouZhpaY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-y8y_jzLavQzvouZhpaY-2" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="200" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-y8y_jzLavQzvouZhpaY-7" value="数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="443.5" y="160" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-y8y_jzLavQzvouZhpaY-10" value="ES" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="444" y="270" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-y8y_jzLavQzvouZhpaY-18" value="重构索引" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-y8y_jzLavQzvouZhpaY-19" value="ES重构索引方案，对方没说" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="380" width="160" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
