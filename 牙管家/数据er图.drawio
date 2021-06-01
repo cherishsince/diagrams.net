@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-01T03:21:18.892Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="YtvtdBuqPww5fml4Nk2F" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-01T03:22:30.985Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="qaDZQp0r8QPpcQsyLkD2" version="14.7.3" type="github">
   <diagram id="96Bz37Z0086mbGnaw6Mn" name="第 1 页">
     <mxGraphModel dx="1325" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,6 +119,9 @@
         </mxCell>
         <mxCell id="eY0__C5RNYnjjjpVS56b-18" value="收费单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="850" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eY0__C5RNYnjjjpVS56b-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="eY0__C5RNYnjjjpVS56b-19" target="eY0__C5RNYnjjjpVS56b-56">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eY0__C5RNYnjjjpVS56b-19" value="医生看诊" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="330" width="90" height="60" as="geometry" />
@@ -306,9 +309,6 @@
           <mxGeometry x="-0.0758" y="1" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="eY0__C5RNYnjjjpVS56b-116" value="医生叫号" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERoneToMany;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="eY0__C5RNYnjjjpVS56b-56" target="eY0__C5RNYnjjjpVS56b-19">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eY0__C5RNYnjjjpVS56b-56" value="排队叫号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1346" y="330" width="90" height="60" as="geometry" />
