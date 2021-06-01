@@ -1,4 +1,4 @@
-<mxfile modified="2021-06-01T06:23:20.860Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="RUkAMlIzgQR6JxcVjPPY" version="14.7.3" type="github">
+<mxfile modified="2021-06-01T06:25:42.901Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="xu68mEo9Ix0-_AQESrzA" version="14.7.3" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1126" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -504,6 +504,18 @@
         </mxCell>
         <mxCell id="w6NsFbWoY5kmLYymBLFV-4" value="分布式事务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="w6NsFbWoY5kmLYymBLFV-5">
           <mxGeometry x="1.8645735584300382" y="27.13547169811318" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="w6NsFbWoY5kmLYymBLFV-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="830" y="760" width="92.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="w6NsFbWoY5kmLYymBLFV-7" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="w6NsFbWoY5kmLYymBLFV-6">
+          <mxGeometry width="92.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="w6NsFbWoY5kmLYymBLFV-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server_rack;" vertex="1" parent="w6NsFbWoY5kmLYymBLFV-6">
+          <mxGeometry x="21.5" y="14.940000000000055" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w6NsFbWoY5kmLYymBLFV-9" value="营销部" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="w6NsFbWoY5kmLYymBLFV-6">
+          <mxGeometry x="21.5" y="67.05999999999995" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
