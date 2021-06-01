@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-01T02:49:09.612Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="CvTA94nJgt_YOmbuwj5_" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-01T02:51:31.235Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="22J8Xfr0OCAyU4qKV53x" version="14.7.3" type="github">
   <diagram id="96Bz37Z0086mbGnaw6Mn" name="第 1 页">
-    <mxGraphModel dx="1877" dy="1285" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1325" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -335,6 +335,21 @@
             <mxPoint x="1080" y="1030.4299999999998" as="sourcePoint" />
             <mxPoint x="1150" y="1030" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="eY0__C5RNYnjjjpVS56b-61" value="客服组长" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eY0__C5RNYnjjjpVS56b-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=ERoneToMany;startFill=0;" edge="1" parent="1" source="eY0__C5RNYnjjjpVS56b-62" target="eY0__C5RNYnjjjpVS56b-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eY0__C5RNYnjjjpVS56b-62" value="客服" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eY0__C5RNYnjjjpVS56b-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERoneToMany;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="eY0__C5RNYnjjjpVS56b-63" target="eY0__C5RNYnjjjpVS56b-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eY0__C5RNYnjjjpVS56b-63" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
