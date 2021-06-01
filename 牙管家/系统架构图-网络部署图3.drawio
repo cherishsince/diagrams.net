@@ -1,4 +1,4 @@
-<mxfile modified="2021-06-01T06:31:38.678Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="YgnK5uwqfqhm_3molQvs" version="14.7.3" type="github">
+<mxfile modified="2021-06-01T06:31:51.929Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="n1wlL97gwbg3jqQ6c7LR" version="14.7.3" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1126" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -461,14 +461,14 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="767" y="610" />
-              <mxPoint x="940" y="610" />
-              <mxPoint x="940" y="540" />
+              <mxPoint x="830" y="610" />
+              <mxPoint x="830" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TMYhuWHFvZFOUoUTKIsQ-94" value="注册/订阅/拉取配置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TMYhuWHFvZFOUoUTKIsQ-90" vertex="1" connectable="0">
           <mxGeometry x="0.0998" y="12" relative="1" as="geometry">
-            <mxPoint x="15" y="15" as="offset" />
+            <mxPoint x="5" y="19" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TMYhuWHFvZFOUoUTKIsQ-71" value="" style="group" parent="1" vertex="1" connectable="0">
