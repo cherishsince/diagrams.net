@@ -1,4 +1,4 @@
-<mxfile modified="2021-06-01T06:28:44.665Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="9EDZleTkijSmV115xvDg" version="14.7.3" type="github">
+<mxfile modified="2021-06-01T06:29:16.647Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="4mpP8ySajXO5bkCyUwQy" version="14.7.3" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1126" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -555,6 +555,9 @@
         </mxCell>
         <mxCell id="w6NsFbWoY5kmLYymBLFV-23" value="仓储/技加工" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="w6NsFbWoY5kmLYymBLFV-20">
           <mxGeometry x="6.5" y="67.05999999999995" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="w6NsFbWoY5kmLYymBLFV-24" value="初步，会有稍作调整..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="615" y="850" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
