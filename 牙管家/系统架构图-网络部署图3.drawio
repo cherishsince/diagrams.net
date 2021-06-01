@@ -1,4 +1,4 @@
-<mxfile modified="2021-06-01T06:12:11.473Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="QRWZU2P-wy6diGOeYuo5" version="14.7.3" type="github">
+<mxfile modified="2021-06-01T06:12:25.062Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="yMYJa4qnArDJXcV9VFH7" version="14.7.3" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1126" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -141,10 +141,10 @@
           <mxGeometry x="510" y="370" width="60" height="26" as="geometry" />
         </mxCell>
         <mxCell id="6-B9HyYre-HtNEmpCuTt-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.content_delivery_network;" parent="1" vertex="1">
-          <mxGeometry x="195" y="910" width="50" height="32.5" as="geometry" />
+          <mxGeometry x="310" y="980" width="50" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="6-B9HyYre-HtNEmpCuTt-35" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="290" y="900" width="70" height="53.5" as="geometry" />
+          <mxGeometry x="405" y="970" width="70" height="53.5" as="geometry" />
         </mxCell>
         <mxCell id="6-B9HyYre-HtNEmpCuTt-11" value="SLB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="6-B9HyYre-HtNEmpCuTt-35" vertex="1">
           <mxGeometry x="15" y="33.5" width="40" height="20" as="geometry" />
@@ -329,7 +329,7 @@
           <mxGeometry x="504" y="1810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TMYhuWHFvZFOUoUTKIsQ-14" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="470" y="900" width="70" height="70" as="geometry" />
+          <mxGeometry x="585" y="970" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TMYhuWHFvZFOUoUTKIsQ-15" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service_package_file;dashed=1;" parent="TMYhuWHFvZFOUoUTKIsQ-14" vertex="1">
           <mxGeometry x="13" width="42.5" height="50" as="geometry" />
