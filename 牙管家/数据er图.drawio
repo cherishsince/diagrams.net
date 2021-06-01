@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-06-01T02:56:17.084Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="gxPtcn1GPpq2oFbxz7U0" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-01T02:56:44.200Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="SpmrcRi5wnlORspF6MU9" version="14.7.3" type="github">
   <diagram id="96Bz37Z0086mbGnaw6Mn" name="第 1 页">
     <mxGraphModel dx="2152" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="eY0__C5RNYnjjjpVS56b-1" value="机构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="100" width="90" height="60" as="geometry" />
+          <mxGeometry x="990" y="90" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eY0__C5RNYnjjjpVS56b-2" value="患者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="470" width="90" height="60" as="geometry" />
@@ -107,7 +107,7 @@
           <mxGeometry x="840" y="860" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eY0__C5RNYnjjjpVS56b-19" value="医生看诊" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="350" width="90" height="60" as="geometry" />
+          <mxGeometry x="990" y="340" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eY0__C5RNYnjjjpVS56b-22" value="患者中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="220" width="90" height="60" as="geometry" />
@@ -123,37 +123,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eY0__C5RNYnjjjpVS56b-24" value="医生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="230" width="90" height="60" as="geometry" />
+          <mxGeometry x="990" y="220" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eY0__C5RNYnjjjpVS56b-25" value="" style="endArrow=ERoneToMany;html=1;edgeStyle=orthogonalEdgeStyle;startArrow=none;startFill=0;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1024.5" y="290" as="sourcePoint" />
-            <mxPoint x="1024.5" y="340" as="targetPoint" />
+            <mxPoint x="1034.5" y="280" as="sourcePoint" />
+            <mxPoint x="1034.5" y="330" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1024" y="360" />
-              <mxPoint x="1024" y="360" />
+              <mxPoint x="1034" y="350" />
+              <mxPoint x="1034" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="eY0__C5RNYnjjjpVS56b-26" value="排班" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="230" width="90" height="60" as="geometry" />
+          <mxGeometry x="1110" y="220" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eY0__C5RNYnjjjpVS56b-27" value="" style="endArrow=ERoneToMany;html=1;entryX=-0.011;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=ERoneToMany;startFill=0;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1066.9899999999998" y="260.02" as="sourcePoint" />
-            <mxPoint x="1170" y="260" as="targetPoint" />
+            <mxPoint x="1076.9899999999998" y="250.01999999999998" as="sourcePoint" />
+            <mxPoint x="1180" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eY0__C5RNYnjjjpVS56b-28" value="看诊记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="470" width="90" height="60" as="geometry" />
+          <mxGeometry x="990" y="460" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eY0__C5RNYnjjjpVS56b-29" value="" style="endArrow=ERoneToMany;html=1;edgeStyle=orthogonalEdgeStyle;startArrow=none;startFill=0;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1024.5" y="410" as="sourcePoint" />
-            <mxPoint x="1024.5" y="460" as="targetPoint" />
+            <mxPoint x="1034.5" y="400" as="sourcePoint" />
+            <mxPoint x="1034.5" y="450" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1024" y="480" />
-              <mxPoint x="1024" y="480" />
+              <mxPoint x="1034" y="470" />
+              <mxPoint x="1034" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -292,15 +292,23 @@
         </mxCell>
         <mxCell id="eY0__C5RNYnjjjpVS56b-54" value="" style="endArrow=ERoneToMany;html=1;edgeStyle=orthogonalEdgeStyle;startArrow=ERoneToMany;startFill=0;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="eY0__C5RNYnjjjpVS56b-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1024.4099999999999" y="160" as="sourcePoint" />
-            <mxPoint x="1024.4100000000003" y="210" as="targetPoint" />
+            <mxPoint x="1034.4099999999999" y="150" as="sourcePoint" />
+            <mxPoint x="1034.4100000000003" y="200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1024" y="200" />
+              <mxPoint x="1034" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="eY0__C5RNYnjjjpVS56b-84" value="排队叫号" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERoneToMany;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="eY0__C5RNYnjjjpVS56b-56" target="eY0__C5RNYnjjjpVS56b-15">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eY0__C5RNYnjjjpVS56b-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERoneToMany;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="eY0__C5RNYnjjjpVS56b-56" target="eY0__C5RNYnjjjpVS56b-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eY0__C5RNYnjjjpVS56b-86" value="医生叫号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eY0__C5RNYnjjjpVS56b-85">
+          <mxGeometry x="0.0424" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="eY0__C5RNYnjjjpVS56b-56" value="排队叫号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="340" width="90" height="60" as="geometry" />
