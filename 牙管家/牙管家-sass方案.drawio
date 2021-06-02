@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-02T03:54:22.306Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="a3_PntIfWqx6W7lmvaUT" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-02T05:55:56.825Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="JeioID1q-zwsvEkOmzEW" version="14.7.3" type="github">
   <diagram id="Bi-gjdyY0U7LMDahLdrq" name="第 1 页">
     <mxGraphModel dx="1126" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -199,10 +199,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qbsm4ZvcZ_Kqgvfo2rhz-46" value="创建门店" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1330" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qbsm4ZvcZ_Kqgvfo2rhz-49" value="填写门店基本信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="1330" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qbsm4ZvcZ_Kqgvfo2rhz-52" value="权限模板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1480" width="120" height="60" as="geometry" />
@@ -253,17 +253,24 @@
         <mxCell id="qbsm4ZvcZ_Kqgvfo2rhz-66" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1026" y="1560" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qbsm4ZvcZ_Kqgvfo2rhz-73" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qbsm4ZvcZ_Kqgvfo2rhz-71" target="qbsm4ZvcZ_Kqgvfo2rhz-72">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="qbsm4ZvcZ_Kqgvfo2rhz-73" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qbsm4ZvcZ_Kqgvfo2rhz-71" target="qbsm4ZvcZ_Kqgvfo2rhz-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="1650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qbsm4ZvcZ_Kqgvfo2rhz-77" value="第三步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qbsm4ZvcZ_Kqgvfo2rhz-73">
+          <mxGeometry x="-0.0716" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="qbsm4ZvcZ_Kqgvfo2rhz-71" value="集团管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1370" width="45" height="90" as="geometry" />
+          <mxGeometry x="85" y="1410" width="45" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="qbsm4ZvcZ_Kqgvfo2rhz-72" value="开店" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1620" width="120" height="60" as="geometry" />
+        <mxCell id="qbsm4ZvcZ_Kqgvfo2rhz-74" value="供应商模板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qbsm4ZvcZ_Kqgvfo2rhz-74" value="开店" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="1620" width="120" height="60" as="geometry" />
+        <mxCell id="qbsm4ZvcZ_Kqgvfo2rhz-76" value="供应商模板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
