@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-02T03:37:03.503Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="VCdNKDT4YJEs8JgmPJ9P" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-02T03:37:11.877Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="OvxJ6UIo5RTkbYCaFcVL" version="14.7.3" type="github">
   <diagram id="Bi-gjdyY0U7LMDahLdrq" name="第 1 页">
     <mxGraphModel dx="1126" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -169,7 +169,7 @@
         </mxCell>
         <mxCell id="qbsm4ZvcZ_Kqgvfo2rhz-48" value="创建门店" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qbsm4ZvcZ_Kqgvfo2rhz-47">
           <mxGeometry x="0.0204" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qbsm4ZvcZ_Kqgvfo2rhz-31" value="集团管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
