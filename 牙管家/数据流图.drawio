@@ -1,1 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T01:53:35.453Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" version="14.7.3" etag="295H6bmN69S8nPVSM4DT" type="github"><diagram id="bM-fnSUvmp5nF6X-EYED">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-03T03:16:23.407Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="qQJHct1KYkOXmkO6FsDG" version="14.7.3" type="github">
+  <diagram id="bM-fnSUvmp5nF6X-EYED" name="第 1 页">
+    <mxGraphModel dx="1127" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fegeSxFB4J5WXNw5AEqF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fegeSxFB4J5WXNw5AEqF-1" target="fegeSxFB4J5WXNw5AEqF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fegeSxFB4J5WXNw5AEqF-5" value="挂号治疗" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fegeSxFB4J5WXNw5AEqF-4">
+          <mxGeometry x="0.0238" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fegeSxFB4J5WXNw5AEqF-1" value="患者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fegeSxFB4J5WXNw5AEqF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fegeSxFB4J5WXNw5AEqF-2" target="fegeSxFB4J5WXNw5AEqF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fegeSxFB4J5WXNw5AEqF-7" value="获得方案" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fegeSxFB4J5WXNw5AEqF-6">
+          <mxGeometry x="-0.0789" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fegeSxFB4J5WXNw5AEqF-2" value="医生治疗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="284" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fegeSxFB4J5WXNw5AEqF-3" value="治疗方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fegeSxFB4J5WXNw5AEqF-8" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;用户治疗&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="110" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fegeSxFB4J5WXNw5AEqF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fegeSxFB4J5WXNw5AEqF-11" target="fegeSxFB4J5WXNw5AEqF-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fegeSxFB4J5WXNw5AEqF-10" value="选择方案" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fegeSxFB4J5WXNw5AEqF-9">
+          <mxGeometry x="0.0238" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fegeSxFB4J5WXNw5AEqF-11" value="患者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="84" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fegeSxFB4J5WXNw5AEqF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fegeSxFB4J5WXNw5AEqF-14" target="fegeSxFB4J5WXNw5AEqF-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fegeSxFB4J5WXNw5AEqF-13" value="确定收费项" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fegeSxFB4J5WXNw5AEqF-12">
+          <mxGeometry x="-0.0789" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fegeSxFB4J5WXNw5AEqF-14" value="治疗方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="288" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fegeSxFB4J5WXNw5AEqF-15" value="收费" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="484" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fegeSxFB4J5WXNw5AEqF-16" value="&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;前台收费&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="84" y="370" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fegeSxFB4J5WXNw5AEqF-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fegeSxFB4J5WXNw5AEqF-19" target="fegeSxFB4J5WXNw5AEqF-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fegeSxFB4J5WXNw5AEqF-18" value="咨询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fegeSxFB4J5WXNw5AEqF-17">
+          <mxGeometry x="0.0238" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fegeSxFB4J5WXNw5AEqF-19" value="患者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="84" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fegeSxFB4J5WXNw5AEqF-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fegeSxFB4J5WXNw5AEqF-22" target="fegeSxFB4J5WXNw5AEqF-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fegeSxFB4J5WXNw5AEqF-21" value="转换" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fegeSxFB4J5WXNw5AEqF-20">
+          <mxGeometry x="-0.0789" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fegeSxFB4J5WXNw5AEqF-22" value="咨询师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="288" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fegeSxFB4J5WXNw5AEqF-23" value="真实用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="484" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fegeSxFB4J5WXNw5AEqF-24" value="&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;洽谈咨询&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="84" y="610" width="100" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
