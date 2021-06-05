@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-05T06:00:45.507Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="zK9wOV1jfM--WSAAGdQP" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-05T06:05:59.510Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="kT07N47gffeMneZR2Ew2" version="14.7.3" type="github">
   <diagram id="DutGnjLJBerShhZG-TlV" name="第 1 页">
-    <mxGraphModel dx="2781" dy="-455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2781" dy="-398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -341,6 +341,12 @@
         </mxCell>
         <mxCell id="UfZnHSmK57loNZaYlV-8-122" value="hr-李" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1370" y="1495" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UfZnHSmK57loNZaYlV-8-125" value="1、根节点下的节点，都是有管理员创建，不一定是这样" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="-1474" y="1330" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UfZnHSmK57loNZaYlV-8-126" value="2、就是一棵树，权限带有继承性" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="-1474" y="1350" width="190" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
