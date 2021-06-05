@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-05T05:49:02.756Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="r9mJNg0_ATgIwNjG_0WK" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-05T05:49:35.514Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="6rbK8y5_dWwEik6b7S-i" version="14.7.3" type="github">
   <diagram id="DutGnjLJBerShhZG-TlV" name="第 1 页">
     <mxGraphModel dx="1954" dy="-1567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -175,7 +175,7 @@
         <mxCell id="UfZnHSmK57loNZaYlV-8-56" value="上海下的数据权限" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-483" y="3048" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UfZnHSmK57loNZaYlV-8-57" value="根目录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UfZnHSmK57loNZaYlV-8-57" value="根节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-168" y="2885" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UfZnHSmK57loNZaYlV-8-58" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="UfZnHSmK57loNZaYlV-8-59" target="UfZnHSmK57loNZaYlV-8-57">
@@ -240,7 +240,7 @@
         <mxCell id="UfZnHSmK57loNZaYlV-8-79" value="&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;集团&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-518" y="2440" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UfZnHSmK57loNZaYlV-8-81" value="集团组织架构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UfZnHSmK57loNZaYlV-8-81" value="根节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-178" y="2460" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UfZnHSmK57loNZaYlV-8-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="UfZnHSmK57loNZaYlV-8-82" target="UfZnHSmK57loNZaYlV-8-83">
